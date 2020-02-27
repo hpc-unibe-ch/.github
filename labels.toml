@@ -1,0 +1,75 @@
+["Prio: Blocker"]
+color = "d73a4a"
+name = "Prio: Blocker"
+description = "Blocks development and/or testing work, production could not run."
+
+["Prio: Critical"]
+color = "ff6663"
+name = "Prio: Critical"
+description = "Crashes, loss of data, severe memory leak."
+
+["Prio: Major"]
+color = "feb144"
+name = "Prio: Major"
+description = "Major loss of function."
+
+["Prio: Minor"]
+color = "fdfd97"
+name = "Prio: Minor"
+description = "Minor loss of function, or other problem where easy workaround is present."
+
+["Prio: Trivial"]
+color = "9ee07e"
+name = "Prio: Trivial"
+description = "Cosmetic problem like misspelt words or misaligned text."
+
+["Prio: None"]
+color = "cccccc"
+name = "Prio: None"
+description = "For the times where there is time."
+
+["Type: bug"]
+color = "953830"
+name = "Type: bug"
+description = "Something isn't working. Something needs a fix."
+
+["Type: enhancement"]
+color = "506c33"
+name = "Type: enhancement"
+description = "New functionality is needed. Something existing needs an enhancement."
+
+["Type: task"]
+color = "35547a"
+name = "Type: task"
+description = "Just a single task. Something needs to be done."
+
+["Type: question"]
+color = "9d8232"
+name = "Type: question"
+description = "Something needs clarification, i.e. for a documentation change. An FAQ?"
+
+["Res: fixed"]
+color = "ffffff"
+name = "Res: fixed"
+description = "This has been fixed/done."
+
+["Res: invalid"]
+color = "ffffff"
+name = "Res: invalid"
+description = "This doesn't seem right. Reasons: Duplicate, cannot reproduced, incomoplete, ..."
+
+["Res: wontfix"]
+color = "ffffff"
+name = "Res: wontfix"
+description = "This will not be worked on"
+
+# Domain labels
+["puppet"]
+color = "f29328"
+name = "puppet"
+description = "Puppet code related change"
+
+["documentation"]
+color = "0075ca"
+name = "documentation"
+description = "Improvements or additions to documentation"
