@@ -1,6 +1,6 @@
 ---
-name: enhancement
-about: Suggest new functionality for this project
+name: Enhancement
+about: Suggest a new functionality for this project or suggest to make something better.
 title: ''
 labels: 'Type: enhancement'
 assignees: ''

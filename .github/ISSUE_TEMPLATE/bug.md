@@ -4,6 +4,7 @@ about: Create a bug report about something that is broken
 title: ''
 labels: 'Type: bug'
 assignees: ''
+projects: 1
 
 ---
 
