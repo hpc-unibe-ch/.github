@@ -1,0 +1,64 @@
+["Res: fixed"]
+color = "cccccc"
+name = "Res: fixed"
+description = "This has been fixed/done."
+
+["Res: invalid"]
+color = "cccccc"
+name = "Res: invalid"
+description = "This doesn't seem right. Reasons: Duplicate, cannot reproduced, incomoplete, ..."
+
+["Res: wontfix"]
+color = "cccccc"
+name = "Res: wontfix"
+description = "This will not be worked on"
+
+["Sev: blocker"]
+color = "ff6663"
+name = "Sev: blocker"
+description = "Blocks development and/or testing work, production could not run."
+
+["Sev: major"]
+color = "feb144"
+name = "Sev: major"
+description = "Major loss of function."
+
+["Sev: minor"]
+color = "fdfd97"
+name = "Sev: minor"
+description = "Minor loss of function, or other problem where easy workaround is present."
+
+["Sev: none"]
+color = "9ee07e"
+name = "Sev: none"
+description = "Nice to have, no urgence, for the times when there is time"
+
+["Topic: documentation"]
+color = "f4f0cb"
+name = "Topic: documentation"
+description = "Improvements or additions to documentations"
+
+["Topic: openmp"]
+color = "b3a580"
+name = "Topic: openmp"
+description = "OpenMP related issues"
+
+["Topic: puppet"]
+color = "ded29e"
+name = "Topic: puppet"
+description = "Issues touching puppet code"
+
+["Type: bug"]
+color = "953830"
+name = "Type: bug"
+description = "Something isn't working. Something needs a fix."
+
+["Type: enhancement"]
+color = "506c33"
+name = "Type: enhancement"
+description = "New functionality is needed. Something existing needs an enhancement."
+
+["Type: task"]
+color = "35547a"
+name = "Type: task"
+description = "Just a single task. Something needs to be done."
