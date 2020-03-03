@@ -33,32 +33,32 @@ color = "9ee07e"
 name = "Sev: none"
 description = "Nice to have, no urgence, for the times when there is time"
 
-["Topic: documentation"]
+["Top: documentation"]
 color = "f4f0cb"
-name = "Topic: documentation"
+name = "Top: documentation"
 description = "Improvements or additions to documentations"
 
-["Topic: openmp"]
+["Top: openmp"]
 color = "b3a580"
-name = "Topic: openmp"
+name = "Top: openmp"
 description = "OpenMP related issues"
 
-["Topic: puppet"]
+["Top: puppet"]
 color = "ded29e"
-name = "Topic: puppet"
+name = "Top: puppet"
 description = "Issues touching puppet code"
 
-["Type: bug"]
+["Typ: bug"]
 color = "953830"
-name = "Type: bug"
+name = "Typ: bug"
 description = "Something isn't working. Something needs a fix."
 
-["Type: enhancement"]
+["Typ: enhancement"]
 color = "506c33"
-name = "Type: enhancement"
+name = "Typ: enhancement"
 description = "New functionality is needed. Something existing needs an enhancement."
 
-["Type: task"]
+["Typ: task"]
 color = "35547a"
-name = "Type: task"
+name = "Typ: task"
 description = "Just a single task. Something needs to be done."
