@@ -1,24 +1,23 @@
 ---
-name: Bug
+name: Bug Report
 about: Create a bug report about something that is broken
-title: ''
-labels: 'Type: bug'
+title: '<!-- A short title to the point -->'
+labels: 'Typ: bug'
 assignees: ''
-projects: 1
 
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+<!-- A clear and concise description of what the problem is. -->
 
 **To Reproduce**
-<--
+<--  
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
--->
+-->  
 
 **Expected behavior**
 <!-- A clear and concise description of what you expected to happen. -->

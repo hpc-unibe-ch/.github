@@ -1,14 +1,14 @@
 ---
-name: Enhancement
+name: Request for Enhancement
 about: Suggest a new functionality for this project or suggest to make something better.
-title: ''
-labels: 'Type: enhancement'
+title: '<!-- A short title to the point -->'
+labels: 'Typ: enhancement'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-<!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
+**Is your feature request related to a current shortcoming? Please describe.**
+<!-- A clear and concise description of what the shortcoming is. Ex. I'm always frustrated when [...] -->
 
 **Describe the solution you'd like**
 <!-- A clear and concise description of what you want to happen. -->
