@@ -4,7 +4,7 @@
 
 Fixes #?
 
-# How to test / repro
+# How to test this pull request?
 
 # Screenshots
 
