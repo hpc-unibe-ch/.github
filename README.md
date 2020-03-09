@@ -2,6 +2,14 @@
 
 ## Managing labels
 
+There are several color palettes in this repository. These have
+been used for the labels. Each category of labels has its palette:
+
+ * Serverities: pastel_rainbow.png
+ * Resolution: simple gray value #cccccc for all
+ * Topic: pastel_forest.png
+ * Type: pastel_dark_colors.png
+
 Details on how to use the tool labels can be found here
 https://github.com/hackebrot/labels
 
