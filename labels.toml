@@ -48,6 +48,11 @@ color = "ded29e"
 name = "Top: puppet"
 description = "Issues touching puppet code"
 
+["Top: researchstorage"]
+color = "b7c68b"
+name = "Top: researchstorage"
+description = "Issue is related to the research storage and the underlying ESS"
+
 ["Typ: bug"]
 color = "953830"
 name = "Typ: bug"
