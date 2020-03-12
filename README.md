@@ -1,6 +1,6 @@
 # .github
 
-## Managing labels
+## Label Colors
 
 There are several color palettes in this repository. These have
 been used for the labels. Each category of labels has its palette:
@@ -10,10 +10,24 @@ been used for the labels. Each category of labels has its palette:
  * Topic: pastel_forest.png
  * Type: pastel_dark_colors.png
 
+## Managing labels
+
 Details on how to use the tool labels can be found here
 https://github.com/hackebrot/labels
 
-### Installing labels
+The following procedure is recommended:
+
+- Edit labels.toml and add/modify as needed
+- Sync to .github repo first using dry-run. From within `.github` repo run:  
+  `labels sync -f labels.toml -n`
+- If ok/finished, really sync to `.github` and have look at  
+  https://github.com/hpc-unibe-ch/.github/labels
+- If lables are as expected, sync to all repos by running  
+  `./sync_labels.sh`  
+  from within this repo's root folder
+- Add changed files and commit with a good commit message
+
+## Installing labels tool
 
 The following installation procedure illustrates the installation of labels
 into a conda environment and setting some environment variables for
