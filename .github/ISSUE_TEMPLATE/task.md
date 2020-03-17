@@ -13,9 +13,9 @@ assignees: ''
 **Action items**
 <--
 Steps to carry out to fullfill the task:
-- [ | Action item 1
-- [ | Action item 2
-- [ | Action item 3
+- [ ] Action item 1
+- [ ] Action item 2
+- [ ] Action item 3
 -->
 
 **Definition of done**
