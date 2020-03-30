@@ -11,7 +11,7 @@ assignees: ''
 <!-- A clear and concise description of what the task is about and the goal that is achieved in the end. -->
 
 **Action items**
-<--
+<!--
 Steps to carry out to fullfill the task:
 - [ ] Action item 1
 - [ ] Action item 2
