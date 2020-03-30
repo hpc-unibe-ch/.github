@@ -53,6 +53,11 @@ color = "b7c68b"
 name = "Top: researchstorage"
 description = "Issue is related to the research storage and the underlying ESS"
 
+["Top: monitoring"]
+color = "a29574"
+name = "Top: mon"
+description = "Monitoring the HPC machine(s), its appliances and users"
+
 ["Typ: bug"]
 color = "953830"
 name = "Typ: bug"
