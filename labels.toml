@@ -55,7 +55,7 @@ description = "Issue is related to the research storage and the underlying ESS"
 
 ["Top: monitoring"]
 color = "a29574"
-name = "Top: mon"
+name = "Top: monitoring"
 description = "Monitoring the HPC machine(s), its appliances and users"
 
 ["Typ: bug"]
