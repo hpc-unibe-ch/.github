@@ -38,6 +38,11 @@ color = "f4f0cb"
 name = "Top: documentation"
 description = "Improvements or additions to documentations"
 
+["Top: monitoring"]
+color = "a29574"
+name = "Top: monitoring"
+description = "Monitoring the HPC machine(s), its appliances and users"
+
 ["Top: openmp"]
 color = "b3a580"
 name = "Top: openmp"
@@ -53,10 +58,10 @@ color = "b7c68b"
 name = "Top: researchstorage"
 description = "Issue is related to the research storage and the underlying ESS"
 
-["Top: monitoring"]
-color = "a29574"
-name = "Top: monitoring"
-description = "Monitoring the HPC machine(s), its appliances and users"
+["Top: slurm"]
+color = "f4f0cb"
+name = "Top: slurm"
+description = "Slurm local researouce management server related issues"
 
 ["Typ: bug"]
 color = "953830"
