@@ -33,6 +33,11 @@ color = "9ee07e"
 name = "Sev: none"
 description = "Nice to have, no urgence, for the times when there is time"
 
+["Top: arc-ce"]
+color = "b7c68b"
+name = "Top: arc-ce"
+description = "Tickets related to the Nordugrid ARC Compute Element instance"
+
 ["Top: documentation"]
 color = "f4f0cb"
 name = "Top: documentation"
