@@ -43,6 +43,11 @@ color = "f4f0cb"
 name = "Top: documentation"
 description = "Improvements or additions to documentations"
 
+["Top: hardware"]
+color = "a29574"
+name = "Top: hardware"
+description = "Hardware related issue that lead to dirty fingers in the serverroom"
+
 ["Top: monitoring"]
 color = "a29574"
 name = "Top: monitoring"
