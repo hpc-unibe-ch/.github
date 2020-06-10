@@ -24,6 +24,7 @@ puppet-network
 reframe
 root-scripts
 rpmbuild_environment
+slapd_setup_scripts
 storage-services-scripts
 ubelix-controlrepo
 ubelix-dhcpstatic
