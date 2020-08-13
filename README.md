@@ -45,8 +45,8 @@ pip install labels
 # for the github api authentication
 mkdir -p $CONDA_PREFIX/etc/conda/activate.d
 mkdir -p $CONDA_PREFIX/etc/conda/deactivate.d
-echo "export LABELS_USERNAME=<your-github-username>" >> mkdir -p $CONDA_PREFIX/etc/conda/deactivate.d/env_vars.sh
-echo "export LABELS_TOKEN=<your-github-token>" >> mkdir -p $CONDA_PREFIX/etc/conda/deactivate.d/env_vars.sh
+echo "export LABELS_USERNAME=<your-github-username>" >> mkdir -p $CONDA_PREFIX/etc/conda/activate.d/env_vars.sh
+echo "export LABELS_TOKEN=<your-github-token>" >> mkdir -p $CONDA_PREFIX/etc/conda/activate.d/env_vars.sh
 echo <<<EOF > $CONDA_PREFIX/etc/conda/deactivate.d/env_vars.sh
 unset LABELS_USERNAME
 unset LABELS_TOKEN
