@@ -33,6 +33,11 @@ color = "9ee07e"
 name = "Sev: none"
 description = "Nice to have, no urgence, for the times when there is time"
 
+["Top: IBM-Ticket"]
+color = "bfd4f2"
+name = "Top: IBM-Ticket"
+description = "A corresponding support ticket at IBM has been opened for this issue."
+
 ["Top: arc-ce"]
 color = "b7c68b"
 name = "Top: arc-ce"
