@@ -35,5 +35,6 @@ ubelix-ks_profiles
 ubelix-pxeenv_bios
 ubelix-pxeenv_uefi
 ups_poller
+usermigration_environment
 uxdash_cli
 uxdash_web
