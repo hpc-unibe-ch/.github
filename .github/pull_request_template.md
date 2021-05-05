@@ -1,4 +1,3 @@
-
 # Closes issue(s)
 
 Fixes #?
