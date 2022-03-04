@@ -3,7 +3,6 @@ name: Request for Enhancement
 about: Suggest a new functionality for this project or suggest to make something better.
 title: '<!-- A short title to the point -->'
 labels: 'Typ: enhancement'
-assignees: ''
 
 ---
 

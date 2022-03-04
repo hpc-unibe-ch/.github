@@ -3,7 +3,6 @@ name: Task
 about: Create a action plan for a task that has to be done'
 title: '<!-- A short title to the point -->'
 labels: 'Typ: task'
-assignees: ''
 
 ---
 
