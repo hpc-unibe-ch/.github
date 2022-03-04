@@ -3,7 +3,6 @@ name: Bug Report
 about: Create a bug report about something that is broken
 title: '<!-- A short title to the point -->'
 labels: 'Typ: bug'
-assignees: ''
 
 ---
 
